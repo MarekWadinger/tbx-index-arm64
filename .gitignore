@@ -1,0 +1,42 @@
+
+# Ignore C/C++ related temporary and meta files
+*/*.o
+*/*.obj
+*/*.exe
+*/*.out
+*/*.a
+*/*.so
+*/*.dll
+*/*.dylib
+*/*.dep
+*/*.map
+*/*.pdb
+*/*.bb
+*/*.bbg
+*/*.gcda
+*/*.gcno
+*/*.gcov
+*/*.xSYM
+*/*.tds
+
+# Ignore macOS related files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore cache directories/files
+*.cache
+*.log
+*.tmp
+
+# glpk
+.hg
+src/glpkmex/glpk-4.42/
+
+# Ignore platform specific generated files
+configure
+Makefile
