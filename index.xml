@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tbxmanager version="1.2">
-
-    <!-- GLPKMEX Package -->
     <package>
         <name>glpkmex</name>
         <homepage></homepage>
@@ -12,8 +10,6 @@
             <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/glpkmex/1.0.0/glpkmex_1_0_0_MACA64.tgz</url>
         </version>
     </package>
-
-    <!-- HYSDEL Package -->
     <package>
         <name>hysdel</name>
         <homepage>http://control.ee.ethz.ch/~hybrid/hysdel/</homepage>
@@ -24,8 +20,6 @@
             <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/hysdel/2.0.6/hysdel_2_0_6_MACA64.tgz</url>
         </version>
     </package>
-
-    <!-- Fourier Package -->
     <package>
         <name>fourier</name>
         <homepage></homepage>
@@ -36,8 +30,6 @@
             <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/fourier/1.0.0/fourier_1_0_0_MACA64.tgz</url>
         </version>
     </package>
-
-    <!-- LCP Package -->
     <package>
         <name>lcp</name>
         <homepage></homepage>
@@ -48,8 +40,6 @@
             <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/lcp/1.0.3/lcp_1_0_3_MACA64.tgz</url>
         </version>
     </package>
-
-    <!-- CDDMEX Package -->
     <package>
         <name>cddmex</name>
         <homepage></homepage>
