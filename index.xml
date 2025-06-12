@@ -4,12 +4,12 @@
     <!-- GLPKMEX Package -->
     <package>
         <name>glpkmex</name>
-        <homepage>None</homepage>
+        <homepage></homepage>
         <repository>stable</repository>
         <version>
             <id>1.0.0</id>
             <date>2025-06-12</date>
-            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/binary/darwin-arm64/glpkmex/1.0.0/glpkmex_1_0_0_MACA64.tgz</url>
+            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/glpkmex/1.0.0/glpkmex_1_0_0_MACA64.tgz</url>
         </version>
     </package>
 
@@ -21,40 +21,43 @@
         <version>
             <id>2.0.6</id>
             <date>2025-06-12</date>
-            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/binary/darwin-arm64/hysdel/2.0.6/hysdel_2_0_6_MACA64.tgz</url>
+            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/hysdel/2.0.6/hysdel_2_0_6_MACA64.tgz</url>
         </version>
     </package>
 
     <!-- Fourier Package -->
     <package>
         <name>fourier</name>
+        <homepage></homepage>
         <repository>stable</repository>
         <version>
             <id>1.0.0</id>
             <date>2025-06-12</date>
-            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/binary/darwin-arm64/fourier/1.0.0/fourier_1_0_0_MACA64.tgz</url>
+            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/fourier/1.0.0/fourier_1_0_0_MACA64.tgz</url>
         </version>
     </package>
 
     <!-- LCP Package -->
     <package>
         <name>lcp</name>
+        <homepage></homepage>
         <repository>stable</repository>
         <version>
             <id>1.0.3</id>
             <date>2025-06-12</date>
-            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/binary/darwin-arm64/lcp/1.0.3/lcp_1_0_3_MACA64.tgz</url>
+            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/lcp/1.0.3/lcp_1_0_3_MACA64.tgz</url>
         </version>
     </package>
 
     <!-- CDDMEX Package -->
     <package>
         <name>cddmex</name>
+        <homepage></homepage>
         <repository>stable</repository>
         <version>
             <id>1.0.1</id>
             <date>2025-06-12</date>
-            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/binary/darwin-arm64/cddmex/1.0.1/cddmex_1_0_1_MACA64.tgz</url>
+            <url arch="maca64">https://github.com/MarekWadinger/tbx-index-arm64/blob/main/binary/darwin-arm64/cddmex/1.0.1/cddmex_1_0_1_MACA64.tgz</url>
         </version>
     </package>
 
