@@ -11,7 +11,7 @@ This is an index to hold toolboxes compiled for MATLAB on Apple Silicon (ARM64).
 2. **Add this repository as a source**:
 
    ```matlab
-   tbxmanager source add https://github.com/MarekWadinger/tbx-index-arm64/
+   tbxmanager source add https://raw.githubusercontent.com/MarekWadinger/tbx-index-arm64/refs/heads/main/index.xml
    ```
 
 3. **Install toolboxes**:
